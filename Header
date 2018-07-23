@@ -8,7 +8,15 @@
 		<link rel="stylesheet" href="normalize.css"/>
 		<link rel="stylesheet" href="style.css"/>
 	</head>
+
+<!-- 
+
+Gal galit uždėti, kad užvedus ant meniu punktų pasikeistų spalva? 
+Ir dar - kad meniu desktope būtų pastovus?
+Kaip darom dėl Tablet - paliekam kaip mobile versiją?
 	
+-->
+
 	<body>
 		<header>
 			<section class="header">
@@ -30,7 +38,7 @@
 	</body>
   
   
-  CSS
+<<<CSS>>>
   
   
   
